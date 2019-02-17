@@ -10,4 +10,4 @@ Simple clone of the legendary Roland TR-808 using HTML, CSS and JavaScript.
 * Effects (Reverb, delay, etc.)
 
 ## External libraries
-* Tone.JS
+* [Tone.js](https://github.com/Tonejs/Tone.js/)
